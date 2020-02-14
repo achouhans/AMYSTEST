@@ -1,1 +1,1 @@
-stdio.println("Hello AMY Test 2");
+stdio.println("Hello AMY Test");
