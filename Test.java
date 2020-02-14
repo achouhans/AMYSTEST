@@ -1,0 +1,1 @@
+stdio.println("HELLO WORLD!")
